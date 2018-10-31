@@ -1,5 +1,0 @@
- "version":[
-  {
-    "current": 1
-    }
-   ]
