@@ -1,0 +1,81 @@
+{
+
+  "version":[
+  {
+    "current": 1
+    }
+   ],
+    
+  "pharma": [
+   {
+     "name": "מונודוקס",
+     "family": "משכחים",
+     "perOs": "כדור",
+     "indicationPerOs": "שינוי צבע",
+     "operation": "הפרשת אנזים",
+     "interactions": "כימי",
+     "antidote": "אנטי-מונוגוקס",
+     "comments": "מינימום 2 כדורים"
+   },
+   {
+     "name": "מבטיחיט",
+     "family": "רעלנים",
+     "perOs": "נוזל",
+     "indicationPerOs": "התקווצות",
+     "operation": "פירוק סוכרים",
+     "interactions": "פיזיולוגי",
+     "antidote": "אדביל",
+     "comments": "17 טיפות"
+   },
+   {
+     "name": "אדביל",
+     "family": "משכחים",
+     "perOs": "כדור",
+     "indicationPerOs": "שינוי צבע",
+     "operation": "הקלת כאב",
+     "interactions": "אנזימים",
+     "antidote": "אין",
+     "comments": "ע\"פ הגדרות"
+   },
+   {
+     "name": "דקסמול",
+     "family": "משכחים",
+     "perOs": "כדור",
+     "indicationPerOs": "הקלה בכאב",
+     "operation": "הקלת כאב",
+     "interactions": "אנזימים",
+     "antidote": "אין",
+     "comments": "לא לערבב עם אלכוהול"
+   },
+   {
+     "name": "פולידין",
+     "family": "מחטאים",
+     "perOs": "משחה",
+     "indicationPerOs": "ספיגת הצבע",
+     "operation": "ספיגה בדם",
+     "interactions": "כימי",
+     "antidote": "ניגוב",
+     "comments": "לא יותר מפעמים ב4 שעות"
+   },
+   {
+     "name": "סודה",
+     "family": "רוויה",
+     "perOs": "נוזל",
+     "indicationPerOs": "רוויה, צימוק",
+     "operation": "רוויהת הדם",
+     "interactions": "פיזיולגי",
+     "antidote": "אין",
+     "comments": ""
+   },
+   {
+     "name": "פאראסטמול",
+     "family": "משכחים",
+     "perOs": "כדור",
+     "indicationPerOs": "הקלה בכאב",
+     "operation": "הקלת כאב",
+     "interactions": "כימי",
+     "antidote": "אין",
+     "comments": "2 כדורים ביום"
+   }
+  ]
+ }
