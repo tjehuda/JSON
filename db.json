@@ -1,4 +1,4 @@
-{    
+{
   "pharma": [
    {
      "name": "מונודוקס",
@@ -69,6 +69,96 @@
      "interactions": "כימי",
      "antidote": "אין",
      "comments": "2 כדורים ביום"
+   },
+   {
+     "name": "מים",
+     "family": "מקהל",
+     "perOs": "נוזל",
+     "indicationPerOs": "הקלה בנוזל",
+     "operation": "הכאות",
+     "interactions": "פיזיקלי",
+     "antidote": "אין",
+     "comments": "חובה"
+   },
+   {
+     "name": "מרק עוף",
+     "family": "סבתא",
+     "perOs": "נוזל",
+     "indicationPerOs": "הקלה בגרון",
+     "operation": "לא ידוע",
+     "interactions": "כל הגוף",
+     "antidote": "שקדי מרק",
+     "comments": "חם"
+   },
+   {
+     "name": "רוזמרין",
+     "family": "טבעי",
+     "perOs": "מוצק",
+     "indicationPerOs": "ירוקת",
+     "operation": "פירוק סוכרים",
+     "interactions": "כל הגוף",
+     "antidote": "אין",
+     "comments": "לפורר"
+   },
+   {
+     "name": "זהביור",
+     "family": "מחתורים",
+     "perOs": "אבקה",
+     "indicationPerOs": "שינוי יובש",
+     "operation": "הפרשת אנזים",
+     "interactions": "כימי",
+     "antidote": "אין",
+     "comments": ""
+   },
+   {
+     "name": "כספיות",
+     "family": "מחתורים",
+     "perOs": "אבקה",
+     "indicationPerOs": "שינוי נוזל",
+     "operation": "הפרשת אנזים",
+     "interactions": "כימיקאלי",
+     "antidote": "אין",
+     "comments": "לפורר"
+   },
+   {
+     "name": "טאלק",
+     "family": "רעלנים",
+     "perOs": "אבקה",
+     "indicationPerOs": "לבנוניות",
+     "operation": "הכאות",
+     "interactions": "כל הגוף",
+     "antidote": "אין",
+     "comments": "מעט"
+   },
+   {
+     "name": "קרציניום",
+     "family": "פרלינים",
+     "perOs": "מוצק מעורב",
+     "indicationPerOs": "מחמאות",
+     "operation": "משנה חום",
+     "interactions": "פיזיקלי",
+     "antidote": "גל רום",
+     "comments": "פיקוח רפואי"
+   },
+   {
+     "name": "כלציניום",
+     "family": "פופיס",
+     "perOs": "אשתרום",
+     "indicationPerOs": "חום גבוהה",
+     "operation": "משנה הכאות",
+     "interactions": "כימיקאלי",
+     "antidote": "טלק",
+     "comments": "פיקוח רפואי"
+   },
+   {
+     "name": "מזרקוניום",
+     "family": "פופיס",
+     "perOs": "נוזל",
+     "indicationPerOs": "אדמומיות",
+     "operation": "משנה חום",
+     "interactions": "כל הגוף",
+     "antidote": "אין",
+     "comments": "הזרקה"
    }
   ]
- }
+}
